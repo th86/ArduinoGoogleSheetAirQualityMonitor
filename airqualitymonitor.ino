@@ -91,7 +91,6 @@ void loop(){
   float fltDensity = 0;  
 
   digitalWrite(BUILTIN_LED, 0); //0=LED ON; 
-  digitalWrite(PIN_SENSOR_LED, 0); //0=LED OFF;  
 
   intRawRead = readSensor();
   Serial.println(String(intRawRead) ); 
