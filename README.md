@@ -1,6 +1,11 @@
 ESP8266 Arduino-Google Sheet IoT Air Quality Monitor
 ====
 
+A low-cost, easy-to-make IoT monitoring device for air quality (particulate matter, PM).
+
+![alt tag](https://raw.githubusercontent.com/th86/ArduinoGoogleSheetAirQualityMonitor/master/example.png)
+The PM concentration recorded by this device from Mar. 4-Apr. 4, 2017, near Columbia University, Manhattan, New York. 
+
 ## Materials ##
 
 WeMos D1 or any ESP8266 board with the nodeMCU firmware
